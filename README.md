@@ -9,7 +9,7 @@ A simple command-line interface application for currency conversions using the [
 
 ```bash
 # Clone the repository
-git clone https://github.com/muhammedkucukaslan/currency-converter-cli.git
+git clone https://github.com/muhammedkucukaslan/currency-converter.git
 # Navigate to the project directory
 cd currency-converter-cli
 # Build the application
